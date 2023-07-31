@@ -4,8 +4,17 @@ Download the dataset from: https://www.kaggle.com/competitions/fraud-detection-a
 Save the dataset in the same folder as the other files downloaded from this repository and then in the 
 
 #Uploading and reading the dataset
+
+
+
 df='Fraud.CSV
+
+
+
 df=pd.read_csv(df)
+
+
+
 (copy the location of the dataset in your system and replace the Fraud.csv with the same.)
 
 Implementing KNN, Logistic Regression, and XGBoost classifiers to detect fraudulent transactions. Prevent financial fraud with powerful machine learning models. Enhance security, accuracy, and protect sensitive data. #FraudDetection #MachineLearning #KNN #LogisticRegression #XGBoost #FinancialSecurity
