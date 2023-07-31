@@ -1,7 +1,7 @@
 # Fraud-Transaction-Detection
 
-Download dataset from: https://www.kaggle.com/competitions/fraud-detection-analysis/data
-Save the dataset in the same older as the other files downloaded from this repository and then in the 
+Download the dataset from: https://www.kaggle.com/competitions/fraud-detection-analysis/data
+Save the dataset in the same folder as the other files downloaded from this repository and then in the 
 
 #Uploading and reading the dataset
 df='Fraud.CSV
